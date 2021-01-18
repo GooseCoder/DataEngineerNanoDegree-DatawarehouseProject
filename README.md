@@ -45,7 +45,7 @@ Using SQL QUERIES we transform the data and separate them into the following sta
 * First generate a new IAM user in your AWS account and give the AdministratorAccess role and policies.
 * Copy the generated access key and secret key.
 * Generate an IAM Role.
-* Spin up a RedShift Cluster and get the DWH_ENDPOIN and `DWH_ROLE_ARN` and add the values to the dwh config file.
+* Spin up a RedShift Cluster and get the DWH_ENDPOIN and DWH_ROLE_ARN and add the values to the dwh config file.
 
 ### Run the scripts
 
